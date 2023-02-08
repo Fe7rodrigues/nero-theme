@@ -1,0 +1,30 @@
+{
+  "name": "nero-theme",
+  "description": "tema dark",
+  "displayName": "Nero Dark",
+  "version": "0.0.1",
+  "icon": "assets/logo-theme.png",
+  "keywords": ["nero","theme dark", "Nero dark"],
+  "publisher": "fe13rodrigues",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+  "themes": [ {
+  "label": "Nero Dark",
+  "uiTheme": "vs-dark",
+  "path": "./themes/nero-theme.json"
+      }
+    ]
+  },
+
+  "scripts": {
+  "package": "vsce package --no-yarn",
+  "publish": "vsce publish --no-yarn"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  }
+}
