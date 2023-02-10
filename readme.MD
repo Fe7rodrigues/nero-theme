@@ -12,19 +12,12 @@ ext install nero-theme
 ## Screenshots:
 
 ### JS code examples:
-<p align="center">
-<img src="assets/img/js.png" width="600">
-</p>
+![Example JS](https://github.com/Fe7rodrigues/nero-theme/blob/943dfed36888dd2e83c51739c2baef008fecde54/assets/js.png)
 
 ### CSS example:
-<p align="center">
-<img src="assets/img/css.png" width="600">
-</p>
-
+![Example CSS]()
 ### HTML example:
-<p align="center">
-<img src="assets/img/html.png" width="600">
-</p>
+![Example HTML](https://github.com/Fe7rodrigues/nero-theme/blob/943dfed36888dd2e83c51739c2baef008fecde54/assets/html.png)
 
 ## License
 [MIT License](https://github.com/Fe7rodrigues/nero-theme/blob/main/License)
