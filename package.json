@@ -3,7 +3,7 @@
   "description": "tema dark",
   "displayName": "Nero Dark",
   "version": "0.0.4",
-  "icon": "https://github.com/Fe7rodrigues/nero-theme/blob/528d4503f9391f23c1130d4214e976388dce1902/assets/logo-theme.png",
+  "icon": "logo-theme.png",
   "keywords": ["nero","theme dark", "Nero dark"],
   "publisher": "Fernando Rodrigues",
   "engines": {
