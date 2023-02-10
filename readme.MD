@@ -15,7 +15,7 @@ ext install nero-theme
 ![Example JS](https://github.com/Fe7rodrigues/nero-theme/blob/943dfed36888dd2e83c51739c2baef008fecde54/assets/js.png)
 
 ### CSS example:
-![Example CSS]()
+![Example CSS](https://github.com/Fe7rodrigues/nero-theme/blob/943dfed36888dd2e83c51739c2baef008fecde54/assets/css.png)
 ### HTML example:
 ![Example HTML](https://github.com/Fe7rodrigues/nero-theme/blob/943dfed36888dd2e83c51739c2baef008fecde54/assets/html.png)
 
