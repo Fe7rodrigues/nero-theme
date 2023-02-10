@@ -2,8 +2,8 @@
   "name": "nero-theme",
   "description": "tema dark",
   "displayName": "Nero Dark",
-  "version": "0.0.1",
-  "icon": "assets/logo-theme.png",
+  "version": "0.0.4",
+  "icon": "assets/img/logo-theme.png",
   "keywords": ["nero","theme dark", "Nero dark"],
   "publisher": "fe13rodrigues",
   "engines": {
@@ -14,7 +14,7 @@
   "themes": [ {
   "label": "Nero Dark",
   "uiTheme": "vs-dark",
-  "path": "./themes/nero-theme.json"
+  "path": "./themes/NeroTheme.json"
       }
     ]
   },

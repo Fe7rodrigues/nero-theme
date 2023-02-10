@@ -1,6 +1,18 @@
 # Change Log
 
+## [0.0.4] - 2023-02-2010
+
+### Changed
+- Updating the extension logo
+### Added
+- Updates to the README.md file to add the screenshots.
+
+## [0.0.3] - 2023-02-09
+
+- bug fix
+
 ## [0.0.1] - 2023-02-08
+
 ### Changed
 - Initial release testing.
 - Modified the syntax colors for keyword operators in .js files.
