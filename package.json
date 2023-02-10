@@ -5,7 +5,7 @@
   "version": "0.0.4",
   "icon": "assets/img/logo-theme.png",
   "keywords": ["nero","theme dark", "Nero dark"],
-  "publisher": "fe13rodrigues",
+  "publisher": "Fernando Rodrigues",
   "engines": {
     "vscode": "^1.75.0"
   },
